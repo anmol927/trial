@@ -1,0 +1,20 @@
+Dear Mrs XYZ,
+I am submitting my application for consideration for the internship program at Defence Research and Development Organisation(DRDO) 
+under the Scientific Analysis Group(SAG). 
+
+I am in the pre-final year of Engineering and have undergone training in Wireless Networks and Security along with which I have been 
+ participating in various jeopardy style capture the flag (CTF) computer security competetions along with a team. I have created a 
+ beginner friendly graphical user interface version of HashCat password recovery tool.I have also participated in some hackathons 
+ relating to IOT and undergone a few mini projects as well.
+
+Through these experiences, along with my coursework in Computer Science Engineering, I am confident that I would be able to successfully 
+navigate the challenges of this internship and  will be a worthy asset to your team.I look forward to hearing from you.
+
+With regards,
+
+Anmol Bose
+
+Attachment:
+[Brief CV. Please find the attachment.] 
+
+
